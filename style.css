@@ -1,0 +1,105 @@
+body{
+	
+    
+	
+	
+}
+.three{
+	text-align:center;
+	font-size:40px;
+	font-family:"Verdana", Geneva, sans-serif;
+	font-weight:bold;
+	color:#666666;
+	
+}
+.two{
+	text-align:center;
+	font-size:60px;
+	font-family:"Verdana", Geneva, sans-serif;
+	font-weight:bold;
+	color:#666666;
+}
+.educationskills{
+	height:60%;
+	width:100%;
+	
+}
+.alt1{
+	background:#bfbfbf;
+	min-height:400px;
+}
+.padding{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.me{
+	margin:0 auto;
+	display:block;
+	
+	
+	
+}
+.header{
+	font-size:40px;
+	color:black;
+	font-weight:bold;
+	text-align:center;
+}
+.achievement{
+	font-size:20px;
+	color:#808080;
+	font-weight:bold;
+	text-align:center;
+	
+}
+li{
+	font-size:20px;
+	color:black;
+	font-weight:bold;
+	text-align:center;
+}
+.education{
+	
+	font-size:20px;
+	color:#808080;
+	font-weight:bold;
+	text-align:center;
+	
+}
+
+.circular--portrait {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin:0 auto;
+  display:block;
+	
+}
+
+.circular--portrait img {
+  width: 100%;
+  height: auto;
+}
+.projects{
+	font-size:40px;
+	color:black;
+	font-weight:bold;
+	text-align:center;
+}
+.alt1{
+	background-color:#F7F7F7;
+}
+.alt2{
+	background:black;
+	min-height:150px;
+	color:white;
+	text-align:center;
+}
+
+
+	
+
+
+
